@@ -4,6 +4,9 @@ The data set included with the assignment is based on 2014 ACS 1-year estimates.
 
 I did created a scatter plot between two of the data variables such as : Smokes vs. Age.
 
+![image](https://user-images.githubusercontent.com/41707119/50721666-437bcd00-1091-11e9-870f-dfb142d5269b.png)
+
+
 Using the D3 techniques , created a scatter plot that represents each state with circle elements. I have coded this graphic in the app.js file of my homework directory. I pull in the data from data.csv by using the d3.csv function. The scatter plot did  ultimately appear like the image at the top of this section.
 
       * Include state abbreviations in the circles.
